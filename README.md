@@ -1,6 +1,6 @@
 <h1> RafieJR </h1>
 
-<!--
-🟡 Javascript, 🟠 Java
+<p> i'm interested on 🔵 c++, 🟡 Javascript, 🟠 Java </p
 
-<img src="https://discord.c99.nl/widget/theme-2/536372167839842365.png" alt="Discord"/>
+
+![Discord Stats](https://discord.c99.nl/widget/theme-3/536372167839842365.png)
